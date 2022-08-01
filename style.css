@@ -355,6 +355,12 @@ ul.ul1 li {
     text-align: justify;
     margin-left: 3em;
 }
+        .poetry {
+    width: 100%;
+    float: left;
+    text-align: left;
+}
+.medal1 {
     width: 42%;
     margin: 10px 2%;
     text-align: left;
