@@ -265,14 +265,14 @@ section.section8 {
             width: 80%;
             margin: 2em auto;
         }
-        .social_media a {
-            /* background: red; */
-            /* color: black; */
-            margin: 5px;
-            padding: 11px 15px;
-            font-size: 14px;
-            text-decoration: none;
-        }
+    .social_media a {
+    /* background: red; */
+    /* color: black; */
+    margin: 5px;
+    padding: 11px 9px;
+    font-size: 10px;
+    text-decoration: none;
+}
         .section3 {
             width: 100%;
             float: left;
